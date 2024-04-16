@@ -15,6 +15,6 @@ Sources for all project tasks (6 stages).
 
 ## Progress
 
-16.04.24 Project started. Setting up `docker-compose.yml` for a docker MySQL-image and init database
-Also stage 1: A SELECT query with condition and ordering.
-```
+16.04.24 Project started. Setting up `docker-compose.yml` for a docker MySQL-image and init database.   
+- Stage 1 completed: A SELECT query with condition and ordering.
+- Stage 2 completed: Calculating average inkjet printer price for special color and round it.
